@@ -52,7 +52,7 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 - 📌 Automatically saved clustering visualizations (`.png` plots).
 
 ---
-
+```
 ## 🏗️ Project Structure
 . 
 ├── main.py # Streamlit web app (GUI and logic) 
@@ -66,7 +66,7 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ├── ss3.png
 ├── ss4.png
 └── README.md # This file
-
+```
 
 ---
 
@@ -75,11 +75,11 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ### 1. Install dependencies:
 ```bash
 > pip install -r requirements.txt
-
+```
 ### 2. Run the Streamlit application:
-
+```
 > streamlit run main.py
-
+```
 
 
 ## 🖼️ Demo Screenshots
