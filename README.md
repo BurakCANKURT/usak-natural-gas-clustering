@@ -109,16 +109,16 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ## 🖼️ Demo Screenshots
 
 ### 🟢 Menu Page (Project Overview):
-![Menu Screenshot](ss1.png)
+![Menu Screenshot](./media/ss1.png)
 
 ### 🟡 Calculate Consumption Pattern Based Clustering:
-![Consumption Pattern Based Clustering](ss2.png)
+![Consumption Pattern Based Clustering](./media/ss2.png)
 
 ### 🔵 Calculate Clustering Based on Exchange Rate Influence:
-![Clustering Based on Exchange Rate Influence](ss3.png)
+![Clustering Based on Exchange Rate Influence](./media/ss3.png)
 
 ### Find Outliers
-![Outliers](ss4.png)
+![Outliers](./media/ss4.png)
 ---
 
 🏆 What I Learned
