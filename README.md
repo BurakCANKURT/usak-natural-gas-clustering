@@ -75,7 +75,7 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ├── main.py # Streamlit web app (GUI and logic) 
 ├── clustering_usak.py # Clustering logic and analysis functions 
 ├── 01-Clustering Usak Natural Gas Consumption.xlsx # Dataset file 
-├── best_cluster_plots/ # Pre-generated clustering result images (PNG) 
+├── plots/ # Pre-generated clustering result images (PNG) 
 ├── harita.html # Geospatial map (HTML) 
 ├── requirements.txt # Python dependencies 
 ├── media
