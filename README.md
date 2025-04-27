@@ -52,6 +52,23 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 - 📌 Automatically saved clustering visualizations (`.png` plots).
 
 ---
+## 🧠 Technologies Used
+
+| Technology               | Purpose                                                               |
+|---------------------------|----------------------------------------------------------------------|
+| **Python 3.9+**           | Programming language                                                 |
+| **Pandas**                | Data manipulation and preprocessing                                  |
+| **NumPy**                 | Numerical calculations                                               |
+| **Scikit-learn**          | Clustering models (KMeans, DBSCAN, Agglomerative), anomaly detection |
+| **SciPy**                 | Statistical analysis, Z-Score calculation                            |
+| **Matplotlib**            | Data visualization (plots and charts)                                |
+| **Openpyxl**              | Reading Excel datasets                                               |
+| **Folium**                | Geospatial data visualization on maps                                |
+| **Streamlit**             | Interactive web interface                                            |
+| **Streamlit-option-menu** | Web app navigation / sidebar control                                 |
+| **Pillow (PIL)**          | Image processing (if any visual manipulations used)                  |
+
+---
 ```
 ## 🏗️ Project Structure
 . 
