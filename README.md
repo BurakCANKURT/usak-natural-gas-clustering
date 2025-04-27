@@ -78,10 +78,7 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ├── best_cluster_plots/ # Pre-generated clustering result images (PNG) 
 ├── harita.html # Geospatial map (HTML) 
 ├── requirements.txt # Python dependencies 
-├── ss1.png
-├── ss2.png
-├── ss3.png
-├── ss4.png
+├── media
 └── README.md # This file
 ```
 ---
