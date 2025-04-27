@@ -16,9 +16,6 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 - 🚩 **Outlier Detection:**  
   Identify **anomalous consumption behaviors** (possible fraud, errors, or unusual usage patterns) using statistical methods.
 
-- 🗺️ **Geospatial Profiling:**  
-  Visualize consumer distribution geographically through an **interactive map**.
-
 ---
 
 ## 🧠 Techniques and Algorithms Used
@@ -31,7 +28,7 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 | **DBSCAN (Density-Based Clustering)** | Cluster detection based on density and anomaly isolation. |
 | **Z-Score Based Outlier Detection** | Statistical anomaly detection on consumption data. |
 | **Isolation Forest (Optional)** | Machine learning-based anomaly detection. |
-| **Folium Mapping**              | Interactive geospatial visualization of consumption profiles. |
+
 
 ---
 
@@ -63,7 +60,6 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 | **SciPy**                 | Statistical analysis, Z-Score calculation                            |
 | **Matplotlib**            | Data visualization (plots and charts)                                |
 | **Openpyxl**              | Reading Excel datasets                                               |
-| **Folium**                | Geospatial data visualization on maps                                |
 | **Streamlit**             | Interactive web interface                                            |
 | **Streamlit-option-menu** | Web app navigation / sidebar control                                 |
 | **Pillow (PIL)**          | Image processing (if any visual manipulations used)                  |
@@ -76,7 +72,6 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ├── clustering_usak.py # Clustering logic and analysis functions 
 ├── 01-Clustering Usak Natural Gas Consumption.xlsx # Dataset file 
 ├── plots/ # Pre-generated clustering result images (PNG) 
-├── harita.html # Geospatial map (HTML) 
 ├── requirements.txt # Python dependencies 
 ├── media
 └── README.md # This file
@@ -135,9 +130,10 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ![Outliers](./media/ss4.png)
 ---
 
-🏆 What I Learned
+🏆 What I Learned (Folium’suz Doğru Versiyon)
 
-- Applying unsupervised learning techniques (clustering, anomaly detection) on real-world datasets.
-- Dimensionality reduction with PCA for effective visualization.
-- Integrating data science models into interactive web applications using Streamlit.
-- Creating geospatial visualizations with Folium.
+- Applying unsupervised learning techniques such as KMeans, Agglomerative Clustering, and DBSCAN on real-world consumption data for customer segmentation.
+- Understanding and implementing anomaly detection methods like Z-Score analysis and Isolation Forest to identify unusual consumption behaviors.
+- Utilizing Principal Component Analysis (PCA) for dimensionality reduction and improving cluster visualization clarity.
+- Combining exchange rate data with consumption patterns to analyze the potential external influences on customer behaviors.
+- Building an interactive, user-friendly Streamlit-based dashboard to present clustering results and anomaly detection outcomes effectively.
