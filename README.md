@@ -70,7 +70,6 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 . 
 ├── main.py # Streamlit web app (GUI and logic) 
 ├── clustering_usak.py # Clustering logic and analysis functions 
-├── 01-Clustering Usak Natural Gas Consumption.xlsx # Dataset file 
 ├── plots/ # Pre-generated clustering result images (PNG) 
 ├── requirements.txt # Python dependencies 
 ├── media
@@ -129,6 +128,11 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ### Find Outliers
 ![Outliers](./media/ss4.png)
 ---
+
+📄 Data Disclaimer:
+The datasets used in this project were provided by my university professor solely for educational purposes.
+These datasets are not publicly distributed and are used here for demonstration and academic showcase only.
+
 
 🏆 What I Learned (Folium’suz Doğru Versiyon)
 
