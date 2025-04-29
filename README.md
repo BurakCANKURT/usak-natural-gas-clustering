@@ -129,10 +129,12 @@ It aims to segment consumers based on their consumption patterns, identify anoma
 ![Outliers](./media/ss4.png)
 ---
 
+
+---
 📄 Data Disclaimer:
 The datasets used in this project were provided by my university professor solely for educational purposes.
 These datasets are not publicly distributed and are used here for demonstration and academic showcase only.
-
+---
 
 🏆 What I Learned (Folium’suz Doğru Versiyon)
 
@@ -141,3 +143,4 @@ These datasets are not publicly distributed and are used here for demonstration 
 - Utilizing Principal Component Analysis (PCA) for dimensionality reduction and improving cluster visualization clarity.
 - Combining exchange rate data with consumption patterns to analyze the potential external influences on customer behaviors.
 - Building an interactive, user-friendly Streamlit-based dashboard to present clustering results and anomaly detection outcomes effectively.
+---
