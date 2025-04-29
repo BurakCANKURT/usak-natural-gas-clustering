@@ -136,7 +136,7 @@ The datasets used in this project were provided by my university professor solel
 These datasets are not publicly distributed and are used here for demonstration and academic showcase only.
 ---
 
-# 🏆 What I Learned (Folium’suz Doğru Versiyon)
+# 🏆 What I Learned 
 
 - Applying unsupervised learning techniques such as KMeans, Agglomerative Clustering, and DBSCAN on real-world consumption data for customer segmentation.
 - Understanding and implementing anomaly detection methods like Z-Score analysis and Isolation Forest to identify unusual consumption behaviors.
